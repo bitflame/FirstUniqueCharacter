@@ -1,0 +1,7 @@
+C:\Users\usr\source\repos\FirstUniqueCharacter\FirstUniqueCharacter\bin\Debug\FirstUniqueCharacter.exe.config
+C:\Users\usr\source\repos\FirstUniqueCharacter\FirstUniqueCharacter\bin\Debug\FirstUniqueCharacter.exe
+C:\Users\usr\source\repos\FirstUniqueCharacter\FirstUniqueCharacter\bin\Debug\FirstUniqueCharacter.pdb
+C:\Users\usr\source\repos\FirstUniqueCharacter\FirstUniqueCharacter\obj\Debug\FirstUniqueCharacter.csprojAssemblyReference.cache
+C:\Users\usr\source\repos\FirstUniqueCharacter\FirstUniqueCharacter\obj\Debug\FirstUniqueCharacter.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\FirstUniqueCharacter\FirstUniqueCharacter\obj\Debug\FirstUniqueCharacter.exe
+C:\Users\usr\source\repos\FirstUniqueCharacter\FirstUniqueCharacter\obj\Debug\FirstUniqueCharacter.pdb
